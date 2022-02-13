@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://nursinkeles.com/blog](http://nursinkeles.com/blog)
 
-- 📝 I regularly write articles on [https://nur-sin-sena.medium.com/](https://nur-sin-sena.medium.com/)
+- 📝 I regularly write articles on [https://medium.com/@nursin-keles](https://nur-sin-sena.medium.com/)
 
 - 📫 How to reach me **nur-sin_sena@hotmail.com**
 <br />
