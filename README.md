@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, redux**
 
-- 👨‍💻 All of my projects are available at [http://nursinkeles.com/blog](http://nursinkeles.com/blog)
+- 👨‍💻 All of my projects are available at [http://nursinkeles.com/blog](https://storied-dasik-7a6d20.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@nursin-keles](https://nur-sin-sena.medium.com/)
 
