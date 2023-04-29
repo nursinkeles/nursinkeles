@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **React, redux**
 
-- 👨‍💻 All of my projects are available at [http://nursinkeles.com/blog](https://storied-dasik-7a6d20.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://storied-dasik-7a6d20.netlify.app/](https://storied-dasik-7a6d20.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@nursin-keles](https://nur-sin-sena.medium.com/)
+- 📝 I regularly write articles on [https://nursin-keles.medium.com/](https://nursin-keles.medium.com/)
 
 - 📫 How to reach me **nur-sin_sena@hotmail.com**
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nurşin keleş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurşin keleş" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nursin-keles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurşin keleş" height="30" width="40" /></a>
 <a href="https://instagram.com/nursinkeless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nursinkeless" height="30" width="40" /></a>
-<a href="https://medium.com/@nursin-keles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nursin-keles" height="30" width="40" /></a>
+<a href="https://nursin-keles.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nursin-keles" height="30" width="40" /></a>
 <a href="https://discord.gg/nurşin keleş#1247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nurşin keleş#1247" height="30" width="40" /></a>
 </p>
 <br />
