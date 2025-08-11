@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding" width="800"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nurşin</h1>
